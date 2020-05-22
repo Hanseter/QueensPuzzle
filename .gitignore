@@ -1,0 +1,6 @@
+.stack-work/
+myFirstApp.cabal
+*~
+
+.vscode/
+*.code-workspace
